@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <div>this is the react what a fucking day</div>
       </header>
     </div>
   );
